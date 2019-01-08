@@ -1,0 +1,16 @@
+PODS:
+  - AsciiNumberTools (0.1.0)
+
+DEPENDENCIES:
+  - AsciiNumberTools (from `../`)
+
+EXTERNAL SOURCES:
+  AsciiNumberTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AsciiNumberTools: 23228d00b5d06c4d282ea11c1e0e10e604e083b2
+
+PODFILE CHECKSUM: 96e5607e9287c5e1a5fd491f2d60790e31e5b5d0
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module AsciiNumberTools {
+  umbrella header "AsciiNumberTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
